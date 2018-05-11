@@ -1,0 +1,15 @@
+{
+  "id": "bufferapp",
+  "name": "BufferApp",
+  "version": "1.0.0",
+  "description": "BufferApp",
+  "main": "index.js",
+  "author": "Alex Devero <deveroalex@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/alexdevero/franz-bufferapp-recipe",
+  "config": {
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "serviceURL": "https://www.buffer.com"
+  }
+}
